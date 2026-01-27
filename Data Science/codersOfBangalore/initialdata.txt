@@ -1,0 +1,16 @@
+username,followers,following,posts,engagement_rate
+tech_guru,24500,520,312,4.8
+fitness_freak,18700,430,289,5.2
+travel_diaries,56200,610,410,6.1
+foodie_corner,32400,390,365,4.5
+fashion_icon,78500,720,540,3.9
+ai_coder,15400,280,198,6.7
+startup_junkie,26800,340,256,5.4
+photography_pro,44200,510,487,4.9
+music_vibes,39800,460,301,5.0
+daily_motivation,91200,840,620,3.6
+college_life,8200,310,145,7.1
+gaming_world,67800,590,432,4.2
+nature_lovers,23400,370,298,6.0
+crypto_updates,45200,410,355,3.4
+webdev_daily,17600,295,214,6.5
